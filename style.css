@@ -1,3 +1,38 @@
 .logo {
     max-width:220px;
+    margin:10px;
+}
+
+header {
+    background-color: #fff;
+    margin-bottom: 40px;
+
+}
+body {
+    background-color: #edebeb;
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    margin: 0 auto;
+    max-width:60%;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.button1 {
+    background-color: #0c9ae1;
+    border-radius: 5px;
+    border: 1px solid #000;
+    font-size: 12px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.button2 {
+    border-radius: 5px;
+    border: 1px solid #000;
+    font-size: 12px;
+    font-family: "Open Sans", sans-serif;
 }
