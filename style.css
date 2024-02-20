@@ -40,30 +40,74 @@ body {
     
 }
 .titolo-lista {
-    display: inline;
+    display: inline-block;
+    margin-bottom: 10px;
 }
 
 ul {
     list-style: none;
     padding: 0;
+    
 
 }
+li {
+    margin-bottom: 20px;
 
+}
 .inline {
     display:inline;
 }
 
-.editorial {
-    background-color: #0c9ae1;
-    padding: 3px 15px;
-    border-radius: 15px;
-    font-size: 12px;
-    color: #fff;
-}
 
 .yes {
     color:#5ed1a7;
 }
 .no {
     color:red;
+}
+
+.editorial {
+    background-color: #0c9ae1;
+    padding: 3px 15px;
+    border-radius: 15px;
+    font-size: 10px;
+    color: #fff;
+}
+.goals {
+    background-color: #9d0ce1;
+    padding: 3px 15px;
+    border-radius: 15px;
+    font-size: 10px;
+    color: #fff;
+}
+
+.recruiting {
+    background-color: #0ce1bd;
+    padding: 3px 15px;
+    border-radius: 15px;
+    font-size: 10px;
+    color: #fff;
+}
+
+.mobile {
+    background-color: #e18c0c;
+    padding: 3px 15px;
+    border-radius: 15px;
+    font-size: 10px;
+    color: #fff;
+}
+
+.website {
+    background-color: #c23794;
+    padding: 3px 15px;
+    border-radius: 15px;
+    font-size: 10px;
+    color: #fff;
+}
+.sales {
+    background-color: #1ee10c;
+    padding: 3px 15px;
+    border-radius: 15px;
+    font-size: 10px;
+    color: #fff;
 }
