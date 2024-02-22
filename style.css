@@ -67,48 +67,31 @@ li {
     color:red;
 }
 
-.editorial {
-    background-color: #0c9ae1;
+.tag {
     padding: 3px 15px;
     border-radius: 15px;
     font-size: 10px;
     color: #fff;
 }
+
+.editorial {
+    background-color: #0c9ae1;
+}
 .goals {
     background-color: #9d0ce1;
-    padding: 3px 15px;
-    border-radius: 15px;
-    font-size: 10px;
-    color: #fff;
 }
 
 .recruiting {
     background-color: #0ce1bd;
-    padding: 3px 15px;
-    border-radius: 15px;
-    font-size: 10px;
-    color: #fff;
 }
 
 .mobile {
     background-color: #e18c0c;
-    padding: 3px 15px;
-    border-radius: 15px;
-    font-size: 10px;
-    color: #fff;
 }
 
 .website {
     background-color: #c23794;
-    padding: 3px 15px;
-    border-radius: 15px;
-    font-size: 10px;
-    color: #fff;
 }
 .sales {
     background-color: #1ee10c;
-    padding: 3px 15px;
-    border-radius: 15px;
-    font-size: 10px;
-    color: #fff;
 }
